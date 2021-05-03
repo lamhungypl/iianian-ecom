@@ -51,6 +51,8 @@ Simplify table design
 
   Core function with Redux Store.
 
+<img  src='./images/reports/frontend/state-management-lifecycle.png' style="max-width:800px" alt='api-architect'/>
+
 - Intermediate
 - Representation
 
