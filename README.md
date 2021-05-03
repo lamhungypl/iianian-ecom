@@ -8,6 +8,8 @@ iianian-ecom come with 3 part:
 - iianian-econ Admin Control Panel.
 - iianian-ecom Store Front.
 
+<img  src='./images/reports/ArchitectureOverview.png' style="max-width:800px" alt='api-architect'/>
+
 | Reference | URL                                                   |
 | --------- | ----------------------------------------------------- |
 | API       | https://github.com/lamhungypl/iianian-ecom-api        |
@@ -17,6 +19,8 @@ iianian-ecom come with 3 part:
 # ❯ API Design
 
 ## Logic layers
+
+<img  src='./images/reports/api/API-Architecture.png' style="max-width:800px" alt='api-architect'/>
 
 - Model
 - Repository
@@ -28,12 +32,25 @@ iianian-ecom come with 3 part:
 
 ## Database
 
+Simplify table design
+
+<img src='./images/reports/api/iianian-ecom-erd.svg' style="max-width:800px" alt='api-architect'/>
+
+## API Docs
+
+[Sample API Docs](https://lamhungypl.github.io/iianian-ecom/public/apidoc/index.html)
+
 # ❯ Frontend Architecture
 
 ## Logic layer
 
+<img  src='./images/reports/frontend/angular-architecture.jpg' style="max-width:800px" alt='api-architect'/>
+
 - Configuration
 - Business
+
+  Core function with Redux Store.
+
 - Intermediate
 - Representation
 
@@ -41,4 +58,12 @@ iianian-ecom come with 3 part:
 
 - Admin UI
 
+<img  src='./images/reports/frontend/Admin-site-map.png' style="max-width:800px" alt='api-architect'/>
+
+<img  src='./images/reports/frontend/admin-dashboard.png' style="max-width:800px" alt='api-architect'/>
+
 - Storefront UI
+
+<img  src='./images/reports/frontend/store-site-map.png' style="max-width:800px" alt='api-architect'/>
+
+<img  src='./images/reports/frontend/store-homepage.png' style="max-width:800px" alt='api-architect'/>
