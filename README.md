@@ -34,7 +34,7 @@ iianian-ecom come with 3 part:
 
 Simplify table design
 
-<img src='./images/reports/api/iianian-ecom-erd.svg' style="max-width:800px" alt='api-architect'/>
+<img src='./images/reports/api/iianian-ecom-erd.png' style="max-width:800px" alt='api-architect'/>
 
 ## API Docs
 
