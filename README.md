@@ -14,7 +14,7 @@ iianian-ecom come with 3 part:
 | --------- | ----------------------------------------------------- |
 | API       | https://github.com/lamhungypl/iianian-ecom-api        |
 | Admin     | https://github.com/lamhungypl/iianian-ecom-admin      |
-| Storefont | https://github.com/lamhungypl/iianian-ecom-storefront |
+| Storefont | https://github.com/lamhungypl/iianian-ecom-store |
 
 # ❯ API Design
 
